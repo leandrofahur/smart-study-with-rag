@@ -3,6 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+
 # C extensions
 *.so
 
@@ -69,6 +70,7 @@ instance/
 .scrapy
 
 # Sphinx documentation
+docs/
 docs/_build/
 
 # PyBuilder
