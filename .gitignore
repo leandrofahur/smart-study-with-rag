@@ -20,7 +20,6 @@
 # production
 /build
 /docs
-/notebooks
 
 # misc
 .DS_Store
